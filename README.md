@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+
+Bioinformaticist Scientist and Python developer with [NCI-GDC](https://github.com/NCI-GDC/) at University of Chicago's [Center for Data Intensive Science](https://github.com/uc-cdis/).
 
 <!--
 **cczysz/cczysz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
