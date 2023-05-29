@@ -1,6 +1,6 @@
 ### About Me
 
-Bioinformaticist Scientist and Python developer with [NCI-GDC](https://github.com/NCI-GDC/) at University of Chicago's [Center for Data Intensive Science](https://github.com/uc-cdis/).
+Senior Bioinformaticist Scientist and Devops Whisperer with [NCI-GDC](https://github.com/NCI-GDC/) at University of Chicago's [Center for Data Intensive Science](https://github.com/uc-cdis/).
 
 You can find more of my professional code in [my CTDS account](https://github.com/czyszCTDS).
 <!--
